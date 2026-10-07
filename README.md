@@ -5,7 +5,8 @@
 **折腾 drpy / TVBox / IPTV 生态，也写点逆向、网关和自动化的小工具。**
 
 [![GitHub](https://img.shields.io/badge/GitHub-zourjke-181717?style=flat&logo=github)](https://github.com/zourjke)
-[![Repos](https://img.shields.io/badge/Repos-35+-blue?style=flat&logo=github)](https://github.com/zourjke?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzourjke&query=%24.public_repos&label=Repos&color=blue&logo=github&style=flat)](https://github.com/zourjke?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=zourjke&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/zourjke)
 
 </div>
 
@@ -26,7 +27,7 @@
 
 |  |  |
 | :---: | :---: |
-| <a href="https://github.com/zourjke/drpy-rules"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=drpy-rules&theme=shades-of-purple" /></a> | <a href="https://github.com/zourjke/drpy-node"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=drpy-node&theme=shades-of-purple&cache_seconds=1800" /></a> |
+| <a href="https://github.com/zourjke/drpy-node"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=drpy-node&theme=shades-of-purple&cache_seconds=1800" /></a> | <a href="https://github.com/zourjke/drpy-rules"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=drpy-rules&theme=shades-of-purple" /></a> |
 | <a href="https://github.com/zourjke/drpy-plugin"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=drpy-plugin&theme=shades-of-purple" /></a> | <a href="https://github.com/zourjke/DrPlayer"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=DrPlayer&theme=shades-of-purple" /></a> |
 
 ### 🛠️ 工具 / 逆向 / 网关
