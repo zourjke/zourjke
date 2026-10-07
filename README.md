@@ -26,7 +26,7 @@
 
 |  |  |
 | :---: | :---: |
-| <a href="https://github.com/zourjke/drpy-rules"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=drpy-rules&theme=shades-of-purple" /></a> | <a href="https://github.com/zourjke/drpy-node"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=drpy-node&theme=shades-of-purple" /></a> |
+| <a href="https://github.com/zourjke/drpy-rules"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=drpy-rules&theme=shades-of-purple" /></a> | <a href="https://github.com/zourjke/gao-json"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=gao-json&theme=shades-of-purple" /></a> |
 | <a href="https://github.com/zourjke/drpy-plugin"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=drpy-plugin&theme=shades-of-purple" /></a> | <a href="https://github.com/zourjke/DrPlayer"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zourjke&repo=DrPlayer&theme=shades-of-purple" /></a> |
 
 ### 🛠️ 工具 / 逆向 / 网关
